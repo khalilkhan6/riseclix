@@ -1,0 +1,2 @@
+# riseclix
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f6974d2039e0424f839b3606d2994da3)](https://app.codacy.com/gh/khalilkhan6/riseclix?utm_source=github.com&utm_medium=referral&utm_content=khalilkhan6/riseclix&utm_campaign=Badge_Grade_Settings)
